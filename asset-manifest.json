@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/new-findings/static/css/main.17fc992f.css",
+    "main.js": "/github.io/new-findings/static/js/main.f719d9b6.js",
+    "static/js/787.59f2897a.chunk.js": "/github.io/new-findings/static/js/787.59f2897a.chunk.js",
+    "static/media/banana-ducks.jpeg": "/github.io/new-findings/static/media/banana-ducks.a8db2763bc475534cae8.jpeg",
+    "index.html": "/github.io/new-findings/index.html",
+    "main.17fc992f.css.map": "/github.io/new-findings/static/css/main.17fc992f.css.map",
+    "main.f719d9b6.js.map": "/github.io/new-findings/static/js/main.f719d9b6.js.map",
+    "787.59f2897a.chunk.js.map": "/github.io/new-findings/static/js/787.59f2897a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17fc992f.css",
+    "static/js/main.f719d9b6.js"
+  ]
+}
